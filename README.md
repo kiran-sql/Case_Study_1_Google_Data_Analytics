@@ -2,7 +2,7 @@
 This is the analysis repository for the case study 1 in Google Data Analytics course
 
 
-The csv file used for this analysis is available in Bike data file.
+The csv file used for this analysis are in this link https://divvy-tripdata.s3.amazonaws.com/index.html.
 ## Steps:
 1. Extract the file 
 2. Take a look at the data by opening any one file
